@@ -7,11 +7,15 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "graceful": "^1.1.0",
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0",
+    "svg": "^0.1.0"
   }
 }
