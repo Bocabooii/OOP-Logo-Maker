@@ -35,3 +35,6 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+![OOP GIF PREVIEW](https://github.com/Bocabooii/OOP-Logo-Maker/assets/113655388/16ba9798-a367-48ec-a6ea-16af2023fc69)
+
+Link to website!!! 
